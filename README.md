@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there, I'm Tejaswi S 👋
 
-<!--
-**tejaswinachiyar/tejaswinachiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 B.E. Computer Science Engineering @ Sathyabama University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Artificial Intelligence, Machine Learning and Full Stack Development
+
+🌱 Currently learning:
+- Java
+- Data Structures & Algorithms
+- Web Development
+- Cloud Computing
+
+🎯 Goals
+- ✅ Internship
+- ✅ Hackathons
+- ✅ Open Source Contributor
+
+---
+
+## 🛠 Tech Stack
+
+💻 Languages
+
+Java • Python • C • HTML • CSS • JavaScript
+
+🗄 Database
+
+MySQL
+
+🧰 Tools
+
+Git • GitHub • VS Code • IntelliJ IDEA
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejaswinachiyar&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tejaswinachiyar&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswinachiyar&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+📧 tejaswishanmugnathan@gmail.com
+
+📍 Chennai, India
+
+---
+
+⭐ Thanks for visiting my profile!
